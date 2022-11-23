@@ -1,4 +1,4 @@
-### ### Hey, I'm Michael! 👋
+### Hey, I'm Michael! 👋
 
 
 - :technologist: Antropologist at [INCRA](https://incra.gov.br)
